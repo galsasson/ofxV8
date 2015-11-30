@@ -26,3 +26,7 @@
 *.exe
 *.out
 *.app
+
+# Allow precompiled v8 libs
+!libs/v8/osx/*.a
+
